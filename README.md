@@ -1,5 +1,7 @@
 # Gerenciamento-de-Estoque
 
+  Foi adicionado verificações nas entradas, mas que não foi incluido nas capturas de tela.
+
 # Tela Inicial
 
 ![2024-11-29 231507](https://github.com/user-attachments/assets/e0f27ee9-ec14-48d8-868c-644958a0c45e)
